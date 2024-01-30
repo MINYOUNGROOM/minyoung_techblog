@@ -17,4 +17,6 @@ public class BoardEntity {
     @Setter
     private Long id;
 
+    private String name;
+
 }
